@@ -1,0 +1,1 @@
+docker creat -it --name 01container alpine:3:12
